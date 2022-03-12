@@ -152,6 +152,7 @@ ggplot(full_long,aes(x=DateTime,y=value,color=site)) +
   geom_line() + 
   facet_wrap(~data)+
   theme_few() + 
+  xlab("year")+
   scale_color_few() 
 
 ```
@@ -283,6 +284,7 @@ ggplot(full_long,aes(x=DateTime,y=value,color=site)) +
   geom_line() + 
   facet_wrap(~data)+
   theme_few() + 
+  xlab("year")+
   scale_color_few() 
 ```
 

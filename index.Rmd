@@ -12,7 +12,7 @@ github-repo: rstudio/bookdown-demo
 description: "This is a book compiling class assignments for an environmental data science course. The output format for this is bookdown::gitbook."
 ---
 
-# Introduction to this book
+# Introduction to this book 
 
 This book provides an overview of how to visualize and analyze different times of environmental data. Each chapter of the book contains both different types of data as well as methods of analysis and visualization. All chapters were created solely for the purpose of learning through the Environmental Data Science course at CSU (ESS580A7).  Below is a short overview of each chapter: 
 

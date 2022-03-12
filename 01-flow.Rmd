@@ -42,7 +42,7 @@ q <- readNWISdv(siteNumbers = '06752260',
 ```{r, echo=FALSE, warning = FALSE, fig.width = 8, fig.height = 5}
 ggplot(q, aes(x = Date, y = q)) + 
   geom_line() + 
-  ylab('Q (cfs)') + 
+  ylab('Discharge (cfs)') + 
   ggtitle('Discharge in the Poudre River, Fort Collins')
 
 ```
