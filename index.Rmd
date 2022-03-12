@@ -26,11 +26,12 @@ This book provides an overview of how to visualize and analyze different times o
 
 **Ch.6.** Continuing to use geospatial data to join datasets and extrapolate spatial trends. 
 
-**Ch.7.** Using yield and temperature data to create simple and multiple regression models, time serries, and panel models.
+**Ch.7.** Using yield and temperature data to create simple and multiple regression models, time series, and panel models.
 
 **Ch.8.** References for data and code included in this book. 
 
 ![](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
+
 
 
 ```{r include=FALSE}
